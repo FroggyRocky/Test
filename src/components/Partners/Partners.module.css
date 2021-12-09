@@ -1,0 +1,12 @@
+.cards_header_section {
+    margin: 69px auto 30px auto;
+    font-weight: 500;
+    line-height: 160%;
+    color: #121920;
+    line-height: 160%;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+}

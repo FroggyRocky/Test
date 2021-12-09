@@ -1,0 +1,27 @@
+/* desktop content 1170width height - 900px */
+/* card width - 210, height - 120 */
+/* font-style - roboto */
+*{
+    padding: 0;
+    margin: 0;
+}
+.wrapper {
+    font-family: 'Roboto', sans-serif;
+}
+.container {
+    max-width: 1170px;
+    margin: 0px auto;
+    padding: 0 15px;
+    /* background-color: rgb(167, 167, 167); */
+}
+
+@media (max-width:992) {
+ .container {
+     max-width: 750;
+ }
+}
+@media (max-width:768) {
+    .container {
+        max-width: none;
+    }
+}
