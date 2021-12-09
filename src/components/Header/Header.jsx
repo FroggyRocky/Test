@@ -1,7 +1,7 @@
 import companyLogo from '../../assets/img/avatars/CompLogo.svg';
 import styles from './Header.module.css'
-import userAvatar from '../../assets/img/avatars/user.png'
 import profileIcon from '../../assets/img/icons/Profile-stroke.svg'
+
 export default function Header(props) {
     return <header>
         <section className={`container ${styles.header_container}`}>
@@ -14,10 +14,10 @@ export default function Header(props) {
                         placeholder="Найти..." />
                 </span>
             </div>
-                <div className={styles.user_data_container}>
+                <div id={props.id} className={styles.user_data_container}>
                     <div className={styles.user_data}>
-                    <span>Константин</span>
-                    <img src={userAvatar} alt="user_avatar" />
+                    <span>{props.userName}</span>
+                    <img src={props.avatar} alt="user_avatar" />
                 </div>
                 </div>
                 <div className={styles.profile_icon_container}>

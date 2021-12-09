@@ -5,7 +5,16 @@ import Card4 from './assets/img/cards/Card4.svg'
 import Card5 from './assets/img/cards/Card5.svg'
 import Card6 from './assets/img/cards/Card6.svg'
 import Card7 from './assets/img/cards/Card7.svg'
+import UserAvatar from './assets/img/avatars/user.png'
 
+////should be an information from a server
+const users = {
+    currentUser: {
+        avatar:UserAvatar,
+        id:1,
+        name:"Константин"
+    }
+}
 const cardsData = [
     {id:1, img:Card1},
     {id:2, img:Card2},
@@ -16,3 +25,4 @@ const cardsData = [
     {id:7, img:Card7}
 ]
 export default cardsData
+export {users}
