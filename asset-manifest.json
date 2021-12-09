@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Test/static/css/main.f0798ebb.chunk.css",
+    "main.js": "/Test/static/js/main.8b1b9f6e.chunk.js",
+    "main.js.map": "/Test/static/js/main.8b1b9f6e.chunk.js.map",
+    "runtime-main.js": "/Test/static/js/runtime-main.dcee636a.js",
+    "runtime-main.js.map": "/Test/static/js/runtime-main.dcee636a.js.map",
+    "static/js/2.a1b75833.chunk.js": "/Test/static/js/2.a1b75833.chunk.js",
+    "static/js/2.a1b75833.chunk.js.map": "/Test/static/js/2.a1b75833.chunk.js.map",
+    "index.html": "/Test/index.html",
+    "static/css/main.f0798ebb.chunk.css.map": "/Test/static/css/main.f0798ebb.chunk.css.map",
+    "static/js/2.a1b75833.chunk.js.LICENSE.txt": "/Test/static/js/2.a1b75833.chunk.js.LICENSE.txt",
+    "static/media/Card1.0061d2d3.svg": "/Test/static/media/Card1.0061d2d3.svg",
+    "static/media/Card2.f86d6d41.svg": "/Test/static/media/Card2.f86d6d41.svg",
+    "static/media/Card3.1a624071.svg": "/Test/static/media/Card3.1a624071.svg",
+    "static/media/Card4.fed97ac5.svg": "/Test/static/media/Card4.fed97ac5.svg",
+    "static/media/Card5.59627518.svg": "/Test/static/media/Card5.59627518.svg",
+    "static/media/Card6.09f8c1c7.svg": "/Test/static/media/Card6.09f8c1c7.svg",
+    "static/media/Card7.a9d3582b.svg": "/Test/static/media/Card7.a9d3582b.svg",
+    "static/media/CompLogo.4f47a4b8.svg": "/Test/static/media/CompLogo.4f47a4b8.svg",
+    "static/media/Profile-stroke.7309c4d0.svg": "/Test/static/media/Profile-stroke.7309c4d0.svg",
+    "static/media/Header.module.css": "/Test/static/media/Search.c9ad6744.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcee636a.js",
+    "static/js/2.a1b75833.chunk.js",
+    "static/css/main.f0798ebb.chunk.css",
+    "static/js/main.8b1b9f6e.chunk.js"
+  ]
+}
